@@ -1,6 +1,12 @@
 <Solution>
+  <Folder Name="/BuildingBlocks/">
+    <Project Path="BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj" Id="14569749-5eca-47df-add1-c9254817a484" />
+  </Folder>
   <Folder Name="/Services/" />
   <Folder Name="/Services/Catalog/">
     <Project Path="Services/Catalog/Catalog.API/Catalog.API.csproj" Id="3d703a31-305c-4c76-9247-086e3264bdfe" />
+  </Folder>
+  <Folder Name="/ThirdParty/">
+    <Project Path="../../../Carter/src/Carter/Carter.csproj" />
   </Folder>
 </Solution>
