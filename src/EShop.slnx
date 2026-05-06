@@ -9,4 +9,7 @@
   <Folder Name="/ThirdParty/">
     <Project Path="../../../Carter/src/Carter/Carter.csproj" />
   </Folder>
+  <Project Path="docker-compose.dcproj">
+    <Build />
+  </Project>
 </Solution>
